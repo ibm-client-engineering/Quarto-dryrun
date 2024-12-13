@@ -28,19 +28,19 @@ website:
         - section: Solution Overview
           contents:
           - text: Prepare
-            href: stepone.qmd
+            href: prepare.qmd
           - text: Environment 
-            href: steptwo.qmd
+            href: environment.qmd
           - text: Troubleshooting
-            href: stepthree.qmd
+            href: troubleshoot.qmd
         - section: Implementation Methodology
           contents:
           - text: Step One
-            href: stepone-imp.qmd
+            href: imp-stepone.qmd
           - text: Step Two
-            href: steptwo-imp.qmd
+            href: imp-steptwo.qmd
           - text: Step Three
-            href: stepthree-imp.qmd
+            href: imp-stepthree.qmd
         - text: Key Takeaways
           href: key-takeaway.qmd
 
